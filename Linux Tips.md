@@ -1,8 +1,5 @@
 # Linux Tips
 
-Table of Contents
-=================
-
    * [Linux Tips](#linux-tips)
       * [Vim 常用命令](#vim-常用命令)
       * [文件系统](#文件系统)
