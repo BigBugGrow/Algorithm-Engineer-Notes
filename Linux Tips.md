@@ -1,6 +1,19 @@
 # Linux Tips
 
-[TOC]
+Table of Contents
+=================
+
+   * [Linux Tips](#linux-tips)
+      * [Vim 常用命令](#vim-常用命令)
+      * [文件系统](#文件系统)
+      * [解压缩](#解压缩)
+         * [.7z](#7z)
+         * [合并.zip](#合并zip)
+         * [压缩 ](#压缩)
+         * [解压](#解压)
+      * [进程](#进程)
+      * [Tmux](#tmux)
+      * [Cuda](#cuda)
 
 ## Vim 常用命令
 shift + 4 行尾 
